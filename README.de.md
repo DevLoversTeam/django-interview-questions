@@ -4,7 +4,6 @@
 
 <h1>
   Django <img src="./assets/django.svg" width="40" height="40" alt="Django logo"/>
-
 </h1>
 
 <h2>Die beliebtesten Django-Interviewfragen und -antworten</h2>
